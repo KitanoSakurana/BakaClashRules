@@ -1,1 +1,8 @@
+# Generated from KitanoSakura
+# REPO: https://github.com/KitanoSakurana/BakaClashRules/
+# I haven't thought of how to fully automate the search at the moment
+# Generation time: 2026/05/09 (UTC+8) 12:51 PM
+# This rule file is used to add and complete direct connection domain names, independent of domain names that do not exist in the direct connection rule file on the market
 
+payload:
+  - DOMAIN-SUFFIX,hanimeone.me
