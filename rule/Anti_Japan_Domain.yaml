@@ -1,7 +1,7 @@
 # Generated from KitanoSakura
 # REPO: https://github.com/KitanoSakurana/BakaClashRules/
 # I haven't thought of how to fully automate the search at the moment
-# Generation time: 2026/05/10 (UTC+8) 01:58 AM
+# Generation time: 2026/05/11 (UTC+8) 23:36 PM
 
 payload:
   - DOMAIN-SUFFIX,hanimeone.me
@@ -28,3 +28,16 @@ payload:
   - DOMAIN-SUFFIX,javchu.com
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,18comic.ink
+  - DOMAIN-SUFFIX,baozimh.com
+  - DOMAIN-SUFFIX,baozicdn.com
+  - DOMAIN-SUFFIX,bzcdn.net
+  - DOMAIN-SUFFIX,baozimhcn.com
+  - DOMAIN-SUFFIX,bzmgcn.com
+  - DOMAIN-SUFFIX,dinnerku.com
+  - DOMAIN-SUFFIX,kukuc.co
+  - DOMAIN-SUFFIX,twmanga.com
+  - DOMAIN-SUFFIX,webmota.com
+  - DOMAIN-SUFFIX,comicknew.pictures
+  - DOMAIN-SUFFIX,comick.art
+  - DOMAIN-SUFFIX,happymh.com
+  - DOMAIN-SUFFIX,zaimanhua.com
