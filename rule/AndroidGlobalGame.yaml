@@ -1,8 +1,13 @@
 # Generated from KitanoSakura
 # REPO: https://github.com/KitanoSakurana/BakaClashRules/
 # I haven't thought of how to fully automate the search at the moment
-# Generation time: 2026/05/06 (UTC+8) 9:48 PM
+# Generation time: 2026/05/17 (UTC+8) 0:35 AM
 
 payload:
   - PROCESS-NAME,com.levelinfinite.sgameGlobal
   - PROCESS-NAME,com.levelinfinite.sgameGlobal.midaspay
+  - PROCESS-NAME,com.tencent.ig
+  - PROCESS-NAME,com.tencent.iglite
+  - PROCESS-NAME,com.vng.pubgmobile
+  - PROCESS-NAME,com.pubg.krmobile
+  - PROCESS-NAME,com.tencent.igce
