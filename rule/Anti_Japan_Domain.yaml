@@ -1,7 +1,7 @@
 # Generated from KitanoSakura
 # REPO: https://github.com/KitanoSakurana/BakaClashRules/
 # I haven't thought of how to fully automate the search at the moment
-# Generation time: 2026/05/11 (UTC+8) 23:36 PM
+# Generation time: 2026/07/13 (UTC+8) 16:34 PM
 
 payload:
   - DOMAIN-SUFFIX,hanimeone.me
