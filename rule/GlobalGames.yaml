@@ -1,0 +1,7 @@
+# Generated from KitanoSakura
+# REPO: https://github.com/KitanoSakurana/BakaClashRules/
+# I haven't thought of how to fully automate the search at the moment
+# Generation time: 2026/07/27 (UTC+8) 14:33 PM
+
+payload:
+  - PROCESS-NAME,TslGame.exe
