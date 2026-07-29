@@ -3,3 +3,11 @@
 # I haven't thought of how to fully automate the search at the moment
 # Generation time: 2026/07/29 (UTC+8) 19:55 PM
 # These rules are for overseas stations of operators in China
+payload:
+  - DOMAIN-SUFFIX,ctexcel.com
+  - DOMAIN-SUFFIX,cmlink.com
+  - DOMAIN-SUFFIX,unicomus.com
+  - DOMAIN-SUFFIX,chinaunicomglobal.com
+  - DOMAIN-SUFFIX,cuniq.jp
+  - DOMAIN-SUFFIX,chinatelecomasiapacific.com
+  - DOMAIN-SUFFIX,chinatelecom.com.hk
