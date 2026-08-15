@@ -17,8 +17,6 @@ payload:
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,hbomax.com
   - DOMAIN-SUFFIX,hulu.com
-  - DOMAIN-SUFFIX,e-hentai.org
-  - DOMAIN-SUFFIX,exhentai.org
   - DOMAIN-SUFFIX,bluetrafficstream.com
   - DOMAIN-SUFFIX,juicyads.me
   - DOMAIN-SUFFIX,hembed.com
